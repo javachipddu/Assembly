@@ -90,13 +90,17 @@ $$
 
 ---
 
-Data bus
+## System bus
 
-Address bus
+### Control bus
 
-Control bus
+### Data bus
 
-메모리 읽기
+### Address bus
+
+## C언어 메모리 구조
+
+register : CPU 안에 있는 고속 기억장치
 
 ---
 

@@ -98,4 +98,6 @@ Control bus
 
 메모리 읽기
 
+---
+
 <img width="814" height="453" alt="image" src="https://github.com/user-attachments/assets/b8889e34-1b93-41dd-8068-fece0095d3cb" />

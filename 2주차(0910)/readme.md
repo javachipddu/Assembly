@@ -89,3 +89,11 @@ $$
  이므로 Clock Period는 **1 ns**이다.
 
 ---
+
+Data bus
+
+Address bus
+
+Control bus
+
+메모리 읽기

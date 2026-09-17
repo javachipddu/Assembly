@@ -38,3 +38,7 @@ bias
 
 \0 = NULL character = ASCII 값 0
 
+imul eax, ebx, 5; ebx와 5를 곱하여 eax에 값을 저장
+
+<img width="606" height="338" alt="image" src="https://github.com/user-attachments/assets/1caf7a1f-2c22-40a9-86cf-ded910eec25a" />
+

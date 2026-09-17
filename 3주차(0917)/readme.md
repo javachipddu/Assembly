@@ -42,3 +42,5 @@ imul eax, ebx, 5; // ebx와 5를 곱하여 eax에 값을 저장
 
 <img width="606" height="338" alt="image" src="https://github.com/user-attachments/assets/1caf7a1f-2c22-40a9-86cf-ded910eec25a" />
 
+<img width="621" height="357" alt="image" src="https://github.com/user-attachments/assets/c02f4aee-8881-4397-83c3-686bd6bb1822" />
+

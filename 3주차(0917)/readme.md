@@ -1,4 +1,5 @@
-<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/27b25aa5-25d1-4756-9daf-9d8a88cdf5ef" />| 레지스터   | 이름          | 전통적인 주요 용도             |
+<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/27b25aa5-25d1-4756-9daf-9d8a88cdf5ef" />
+| 레지스터   | 이름          | 전통적인 주요 용도             |
 | ------ | ----------- | ---------------------- |
 | **AX** | Accumulator | 산술/논리 연산, 함수 반환값 등     |
 | **BX** | Base        | 주소 계산의 기준값             |

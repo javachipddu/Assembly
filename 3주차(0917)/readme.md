@@ -1,4 +1,4 @@
-| 레지스터   | 이름          | 전통적인 주요 용도             |
+<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/27b25aa5-25d1-4756-9daf-9d8a88cdf5ef" />| 레지스터   | 이름          | 전통적인 주요 용도             |
 | ------ | ----------- | ---------------------- |
 | **AX** | Accumulator | 산술/논리 연산, 함수 반환값 등     |
 | **BX** | Base        | 주소 계산의 기준값             |
@@ -44,3 +44,14 @@ imul eax, ebx, 5; // ebx와 5를 곱하여 eax에 값을 저장
 
 <img width="621" height="357" alt="image" src="https://github.com/user-attachments/assets/c02f4aee-8881-4397-83c3-686bd6bb1822" />
 
+<img width="619" height="346" alt="image" src="https://github.com/user-attachments/assets/56c9d76d-5e4c-4f56-87d0-5e50917a93e5" />
+
+0dh, 0ah = enter키
+
+<img width="624" height="350" alt="image" src="https://github.com/user-attachments/assets/09745b1b-4800-48f0-9f86-ec526bdc6089" />
+
+DWORD 10 DUP (0)  ; 40 bytes // DWORD 4바이트
+
+<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/59c37353-bc37-4821-acb6-5e37b0436e2c" />
+
+$ = 현재 주소

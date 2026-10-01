@@ -2,7 +2,7 @@
 
 ## Operand Types
 
-암기할 것(연습문제)
+암기할 것(연습문제 등)
 
 <img width="593" height="292" alt="image" src="https://github.com/user-attachments/assets/e72a172d-6c42-4c34-bfb3-c931898f45c2" />
 

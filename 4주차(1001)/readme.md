@@ -65,3 +65,5 @@ AL → 하위 8비트
 <img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/e5f28b91-3ab0-440d-b9ca-1b50ee90dd7a" />
 
 LAHF = Load status flags into AH
+
+SAHF = Store AH into status flags

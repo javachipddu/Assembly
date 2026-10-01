@@ -1,4 +1,4 @@
-<img width="608" height="338" alt="image" src="https://github.com/user-attachments/assets/c3a89c91-53d9-4c3e-bd9a-a1bacad4e34c" /># 어셈블리프로그래밍 4주차 수업(1001)
+# 어셈블리프로그래밍 4주차 수업(1001)
 
 강의자료2 산술 명령과 플래그 참고할 것
 

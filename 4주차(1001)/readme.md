@@ -56,3 +56,10 @@ AL → 하위 8비트
 
 <img width="593" height="291" alt="image" src="https://github.com/user-attachments/assets/fd0c5d2f-a495-40e4-8b8e-933889f8bb6a" />
 
+* SAR → Arithmetic Right Shift → >>
+
+* SHR → Logical Right Shift → >>>
+
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/e5f28b91-3ab0-440d-b9ca-1b50ee90dd7a" />
+
+Load AH Flag

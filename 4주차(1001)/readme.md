@@ -2,6 +2,8 @@
 
 ## Operand Types
 
+암기할 것(연습문제)
+
 <img width="593" height="292" alt="image" src="https://github.com/user-attachments/assets/e72a172d-6c42-4c34-bfb3-c931898f45c2" />
 
 operate: 연산자
@@ -62,4 +64,4 @@ AL → 하위 8비트
 
 <img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/e5f28b91-3ab0-440d-b9ca-1b50ee90dd7a" />
 
-Load AH Flag
+LAHF = Load status flags into AH

@@ -104,3 +104,34 @@ increase, decrease
 <img width="617" height="338" alt="image" src="https://github.com/user-attachments/assets/c49dbb06-e631-4d5e-91c7-ff0cd5679403" />
 
 <img width="609" height="345" alt="image" src="https://github.com/user-attachments/assets/df23f836-58b7-411c-819b-b4ae4818d0be" />
+
+<img width="624" height="712" alt="image" src="https://github.com/user-attachments/assets/3591beaf-b8ba-4921-82fb-dd14ef27eb6e" />
+
+<img width="613" height="342" alt="image" src="https://github.com/user-attachments/assets/9aa4b96c-dbbe-4921-8f3c-5e25f1a5ab38" />
+
+<img width="620" height="350" alt="image" src="https://github.com/user-attachments/assets/32a94c1e-3918-47dc-bd92-61cb9bcd7aa6" />
+
+**Overflow(오버플로)**는 계산 결과가 표현할 수 있는 최대 범위를 넘어가는 것
+
+**Underflow(언더플로)**는 반대로 계산 결과가 표현할 수 있는 최소 범위보다 작아지는 것
+
+<img width="604" height="347" alt="image" src="https://github.com/user-attachments/assets/12450e6f-33f0-41a6-9a5d-8b1f82c54d5e" />
+
+~: NOT / 1의 보수 구하는 비트 연산자
+&: AND
+^: XOR
+|: OR
+
+<img width="599" height="200" alt="image" src="https://github.com/user-attachments/assets/ba92e475-f147-4adf-bc6b-d7cec6e36af7" />
+
+<img width="610" height="576" alt="image" src="https://github.com/user-attachments/assets/7ef50d07-3e57-4dd6-b437-3712524ac381" />
+
+<img width="602" height="344" alt="image" src="https://github.com/user-attachments/assets/bee38843-5360-483d-b8f4-97205d61b518" />
+
+<img width="613" height="710" alt="image" src="https://github.com/user-attachments/assets/f8d5fff1-abff-47f8-a583-0e52b274818c" />
+
+<img width="619" height="339" alt="image" src="https://github.com/user-attachments/assets/b1c25255-7b32-42fd-8b84-e2c2bb44cb71" />
+
+정렬
+
+ALIGN으로 정렬시키는 이유?

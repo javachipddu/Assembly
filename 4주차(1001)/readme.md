@@ -54,6 +54,5 @@ AL → 하위 8비트
 
 <img width="626" height="713" alt="image" src="https://github.com/user-attachments/assets/e30615b9-649e-4ed3-94c3-07258093f5d4" />
 
-연산	왼쪽에 채우는 값	특징
->>	부호 비트	산술 시프트
->>>	0	논리 시프트
+<img width="593" height="291" alt="image" src="https://github.com/user-attachments/assets/fd0c5d2f-a495-40e4-8b8e-933889f8bb6a" />
+

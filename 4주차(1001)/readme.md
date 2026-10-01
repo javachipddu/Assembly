@@ -91,3 +91,10 @@ increase, decrease
 <img width="600" height="341" alt="image" src="https://github.com/user-attachments/assets/7ab706a9-e3b9-4d96-aa26-b7c301811aeb" />
 
 2의 보수
+
+주요 플래그 레지스터
+
+- CF	Carry Flag	자리올림/빌림 발생
+- ZF	Zero Flag	결과가 0
+- SF	Sign Flag	결과가 음수
+- OF	Overflow Flag	부호 있는 수의 오버플로

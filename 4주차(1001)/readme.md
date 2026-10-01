@@ -30,7 +30,8 @@ bit < nibble < byte < word < field < record < DB
 
 어셈블리 언어에서 WORD 바이트는 2바이트(16비트)
 
-<img width="606" height="340" alt="image" src="https://github.com/user-attachments/assets/7e3a7825-5b66-4309-b091-3c6acceee447" />
+<img width="606" height="363" alt="image" src="https://github.com/user-attachments/assets/2796302a-46f4-44ca-96e3-2a7e6686104f" />
+
 
 78h        → 8비트
 

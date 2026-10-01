@@ -28,7 +28,7 @@ var1 값이 al로 mov한다
 
 bit < nibble < byte < word < field < record < DB
 
-WORD 바이트는 2바이트(16비트)
+어셈블리 언어에서 WORD 바이트는 2바이트(16비트)
 
 <img width="606" height="340" alt="image" src="https://github.com/user-attachments/assets/7e3a7825-5b66-4309-b091-3c6acceee447" />
 
@@ -42,5 +42,6 @@ EAX → 32비트
 
 AX → 16비트
 
-AL → 8비트
+AH → 상위 8비트
 
+AL → 하위 8비트

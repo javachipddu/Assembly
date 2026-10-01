@@ -1,4 +1,4 @@
-# 어셈블리프로그래밍 4주차 수업(1001)
+<img width="608" height="338" alt="image" src="https://github.com/user-attachments/assets/c3a89c91-53d9-4c3e-bd9a-a1bacad4e34c" /># 어셈블리프로그래밍 4주차 수업(1001)
 
 강의자료2 산술 명령과 플래그 참고할 것
 
@@ -86,11 +86,9 @@ increase, decrease
 
 <img width="619" height="345" alt="image" src="https://github.com/user-attachments/assets/2cd1964b-5bfc-4c84-9110-92125d97aa83" />
 
-
-
 <img width="600" height="341" alt="image" src="https://github.com/user-attachments/assets/7ab706a9-e3b9-4d96-aa26-b7c301811aeb" />
 
-2의 보수
+2의 보수 만드는 거
 
 주요 플래그 레지스터
 
@@ -98,3 +96,11 @@ increase, decrease
 - ZF	Zero Flag	결과가 0
 - SF	Sign Flag	결과가 음수
 - OF	Overflow Flag	부호 있는 수의 오버플로
+
+<img width="608" height="338" alt="image" src="https://github.com/user-attachments/assets/bcbf9169-a516-4a40-a553-fb71761e88a2" />
+
+연산자 우선순위표 암기할 것
+
+<img width="617" height="338" alt="image" src="https://github.com/user-attachments/assets/c49dbb06-e631-4d5e-91c7-ff0cd5679403" />
+
+<img width="609" height="345" alt="image" src="https://github.com/user-attachments/assets/df23f836-58b7-411c-819b-b4ae4818d0be" />

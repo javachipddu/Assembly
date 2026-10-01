@@ -2,6 +2,8 @@
 
 ## Operand Types
 
+강의자료2 산술 명령과 플래그 참고할 것
+
 암기할 것(연습문제 등)
 
 <img width="593" height="292" alt="image" src="https://github.com/user-attachments/assets/e72a172d-6c42-4c34-bfb3-c931898f45c2" />
@@ -84,3 +86,8 @@ increase, decrease
 
 <img width="619" height="345" alt="image" src="https://github.com/user-attachments/assets/2cd1964b-5bfc-4c84-9110-92125d97aa83" />
 
+
+
+<img width="600" height="341" alt="image" src="https://github.com/user-attachments/assets/7ab706a9-e3b9-4d96-aa26-b7c301811aeb" />
+
+2의 보수

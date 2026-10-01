@@ -82,5 +82,5 @@ SAHF = Store AH into status flags / Store 저장
 
 increase, decrease
 
-<img width="619" height="345" alt="image" src="https://github.com/user-attachments/assets/7f43cab5-3356-48f0-bee0-3f1c1c008d39" />
+<img width="619" height="345" alt="image" src="https://github.com/user-attachments/assets/2cd1964b-5bfc-4c84-9110-92125d97aa83" />
 

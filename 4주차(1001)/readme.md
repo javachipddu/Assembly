@@ -1,10 +1,10 @@
 # 어셈블리프로그래밍 4주차 수업(1001)
 
-## Operand Types
-
 강의자료2 산술 명령과 플래그 참고할 것
 
 암기할 것(연습문제 등)
+
+## Operand Types
 
 <img width="593" height="292" alt="image" src="https://github.com/user-attachments/assets/e72a172d-6c42-4c34-bfb3-c931898f45c2" />
 

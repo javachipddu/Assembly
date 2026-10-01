@@ -33,12 +33,17 @@ WORD 바이트는 2바이트(16비트)
 <img width="606" height="340" alt="image" src="https://github.com/user-attachments/assets/7e3a7825-5b66-4309-b091-3c6acceee447" />
 
 78h        → 8비트
+
 1234h      → 16비트
+
 12345678h  → 32비트
 
 EAX = 32비트
+
  └──── AX = 하위 16비트
+ 
         ├── AH = 상위 8비트
+        
         └── AL = 하위 8비트
 
 

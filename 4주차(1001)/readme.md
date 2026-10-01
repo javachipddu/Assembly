@@ -135,3 +135,26 @@ increase, decrease
 정렬
 
 ALIGN으로 정렬시키는 이유?
+
+<img width="608" height="341" alt="image" src="https://github.com/user-attachments/assets/b490ab18-7322-4b0b-b930-f9a9cce4cf88" />
+
+<img width="608" height="234" alt="image" src="https://github.com/user-attachments/assets/80c05300-c696-48c5-bc4e-388cd84f923e" />
+
+<img width="602" height="250" alt="image" src="https://github.com/user-attachments/assets/67741f8d-9a60-4ea8-9771-087e2cd12f38" />
+
+<img width="611" height="340" alt="image" src="https://github.com/user-attachments/assets/7777bdf2-89a3-49cd-9c45-1ad5d62adf32" />
+
+<img width="600" height="342" alt="image" src="https://github.com/user-attachments/assets/45d316bf-932d-4ad6-84f2-e6f7b18ca9b2" />
+
+<img width="541" height="283" alt="image" src="https://github.com/user-attachments/assets/ce00348d-9ac8-4b81-a143-01c7283313ee" />
+
+<img width="609" height="342" alt="image" src="https://github.com/user-attachments/assets/deaa8fce-25ae-418e-ad16-b8ef84585dad" />
+
+<img width="608" height="342" alt="image" src="https://github.com/user-attachments/assets/a4874b84-33fa-4efc-851d-1986843e11f9" />
+
+<img width="604" height="333" alt="image" src="https://github.com/user-attachments/assets/9c010e23-9d95-4e61-8067-0ca61307ffa1" />
+
+loop은 cx레지스터를 사용한다.
+
+4장 끝
+

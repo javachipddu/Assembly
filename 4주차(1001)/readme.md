@@ -64,6 +64,23 @@ AL → 하위 8비트
 
 <img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/e5f28b91-3ab0-440d-b9ca-1b50ee90dd7a" />
 
-LAHF = Load status flags into AH
+LAHF = Load status flags into AH / Load 적재
 
-SAHF = Store AH into status flags
+SAHF = Store AH into status flags / Store 저장
+
+<img width="619" height="351" alt="image" src="https://github.com/user-attachments/assets/633ae741-f0d6-4309-97de-bdfcc6012e21" />
+
+<img width="621" height="349" alt="image" src="https://github.com/user-attachments/assets/f942653d-71f9-4439-82d0-087e41fea215" />
+
+대괄호가 없으면 arrayB+1에서 1만 al로 mov된다
+
+<img width="614" height="344" alt="image" src="https://github.com/user-attachments/assets/473bf0e1-31e3-40ad-934b-b2ecb2e513a7" />
+
+이거 실행해보기
+
+<img width="604" height="344" alt="image" src="https://github.com/user-attachments/assets/44da7da4-1e8a-4e41-9af0-5001b83927db" />
+
+increase, decrease
+
+<img width="619" height="345" alt="image" src="https://github.com/user-attachments/assets/7f43cab5-3356-48f0-bee0-3f1c1c008d39" />
+

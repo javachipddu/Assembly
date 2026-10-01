@@ -32,7 +32,6 @@ bit < nibble < byte < word < field < record < DB
 
 <img width="606" height="363" alt="image" src="https://github.com/user-attachments/assets/2796302a-46f4-44ca-96e3-2a7e6686104f" />
 
-
 78h        → 8비트
 
 1234h      → 16비트
@@ -46,3 +45,15 @@ AX → 16비트
 AH → 상위 8비트
 
 AL → 하위 8비트
+
+부호 확장: 비트 값을 늘릴 때 앞 비트의 부호를 그대로 쓴다.
+
+<img width="621" height="346" alt="image" src="https://github.com/user-attachments/assets/4e505de7-ac9a-45a4-b06f-24e41b63d9fb" />
+
+* 변수명 고려하기
+
+<img width="626" height="713" alt="image" src="https://github.com/user-attachments/assets/e30615b9-649e-4ed3-94c3-07258093f5d4" />
+
+연산	왼쪽에 채우는 값	특징
+>>	부호 비트	산술 시프트
+>>>	0	논리 시프트

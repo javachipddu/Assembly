@@ -60,9 +60,18 @@ $ = 현재 메모리 주소
 
 <img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/49812db1-8ee1-4bf2-b485-77c69839aa82" />
 
-irvine32.lib 컴파일 > 링크
+irvine32
 
 LINK = 여러 목적 파일과 라이브러리를 연결해서 최종 실행 파일(.exe)을 만들어 주는 프로그램
 
 Assembler → .obj 생성 → Linker → .exe 생성
 
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/2289e16c-fd01-420b-9798-454bd20081e3" />
+
+<img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/454084fd-668b-4653-a72b-20fc19c64ec7" />
+
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/e28e637c-e177-454d-9d7c-a497cac1a4df" />
+
+<img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/6b9a796c-698b-4409-b6bf-aaec6a7206c8" />
+
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/464b7339-02d9-4a59-808a-3c2e1eea474b" />

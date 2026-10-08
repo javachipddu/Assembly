@@ -31,3 +31,4 @@ context switching 할 때 필요하다
 <img width="837" height="467" alt="image" src="https://github.com/user-attachments/assets/b9a32972-ea34-44b9-8929-defe4578f16b" />
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/663c53c8-4666-4772-ba94-0d4e8e1f442b" />
 $ = 현재 메모리 주소
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/4656ec41-7243-409c-b680-64758a5c31d1" />

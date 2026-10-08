@@ -26,14 +26,26 @@ abc(5, 6); //a=5, b=6
 <img width="837" height="461" alt="image" src="https://github.com/user-attachments/assets/2eada90b-76b8-453e-8c53-f5363b5a9453" />
 
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/79cc44d7-0d63-464b-8824-e259e2b5028c" />
+
 context switching 할 때 필요하다
 <img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/3fd48ff7-033e-493c-a9f0-3f08a32d9cd0" />
+
 <img width="837" height="467" alt="image" src="https://github.com/user-attachments/assets/b9a32972-ea34-44b9-8929-defe4578f16b" />
+
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/663c53c8-4666-4772-ba94-0d4e8e1f442b" />
+
 $ = 현재 메모리 주소
+
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/4656ec41-7243-409c-b680-64758a5c31d1" />
+
 <img width="837" height="467" alt="image" src="https://github.com/user-attachments/assets/6e302446-6ed8-462d-b08b-2e263ee7530f" />
+
 <img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/6c34250d-e8f3-41dc-b73a-039692c446e2" />
+
 * Push Return Address
 
 <img width="837" height="460" alt="image" src="https://github.com/user-attachments/assets/b51195de-f14d-4514-9bb5-3e3e22aa5cc0" />
+
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/6cb969e8-87ab-4414-93d9-9304e2e8098c" />
+
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/13014360-2786-4178-be1e-ee9282e45d4f" />

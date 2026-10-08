@@ -75,3 +75,13 @@ Assembler → .obj 생성 → Linker → .exe 생성
 <img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/6b9a796c-698b-4409-b6bf-aaec6a7206c8" />
 
 <img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/464b7339-02d9-4a59-808a-3c2e1eea474b" />
+
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/13e3c3e3-6d51-4e53-85f8-7cd4f05cef9f" />
+
+<img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/6af710d5-57d5-4313-b7f8-c0774cb03901" />
+
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/f075db7b-91ec-428b-ba79-f4b1c32af1d2" />
+
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/ed3f1ee1-74df-4815-95b5-44c1a3fe7721" />
+
+<img width="787" height="237" alt="image" src="https://github.com/user-attachments/assets/dd4ed003-978b-4562-a06c-e3048393826f" />

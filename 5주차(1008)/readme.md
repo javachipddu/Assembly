@@ -49,3 +49,6 @@ $ = 현재 메모리 주소
 <img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/6cb969e8-87ab-4414-93d9-9304e2e8098c" />
 
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/13014360-2786-4178-be1e-ee9282e45d4f" />
+
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/429035cd-86ca-47ab-ba0f-2c80469355ad" />
+

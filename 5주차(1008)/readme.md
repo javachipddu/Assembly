@@ -27,3 +27,6 @@ abc(5, 6); //a=5, b=6
 
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/79cc44d7-0d63-464b-8824-e259e2b5028c" />
 context switching 할 때 필요하다
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/3fd48ff7-033e-493c-a9f0-3f08a32d9cd0" />
+<img width="837" height="467" alt="image" src="https://github.com/user-attachments/assets/b9a32972-ea34-44b9-8929-defe4578f16b" />
+$ = 현재 메모리 주소

@@ -21,3 +21,9 @@ int abc(int a, int b){
 abc(1, 2); //a=1, b=2
 abc(5, 6); //a=5, b=6
 ```
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/41e3f4cf-d739-4683-aa61-3f1d0228b50b" />
+
+<img width="837" height="461" alt="image" src="https://github.com/user-attachments/assets/2eada90b-76b8-453e-8c53-f5363b5a9453" />
+
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/79cc44d7-0d63-464b-8824-e259e2b5028c" />
+context switching 할 때 필요하다

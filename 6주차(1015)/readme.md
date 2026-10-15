@@ -6,7 +6,7 @@
 
 문자형: char (8비트 / -128~127)
 
-(unsigned는 0~255)
+(unsigned char는 0~255)
 
 논리형: _Bool (C99부터 지원)
 

@@ -30,6 +30,7 @@
 <img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/4df2c6d3-915c-4563-8997-099488e1aa80" />
 <img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/4752676f-e7aa-4a1f-a4bd-8db0d831d34d" />
 <img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/b128e1b4-8d01-4a29-9a53-2356e3bb0f7a" />
+
 #### sub와 cmp의 차이점?
 
 <img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/67174850-3c86-49ed-a85a-d68f7a23d29d" />

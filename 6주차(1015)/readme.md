@@ -16,5 +16,6 @@
 
 <img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/7691ff28-2ef8-4f6e-9a7f-a2ee88bfbeb5" />
 <img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/76cfaef6-8e59-4da2-aa38-2664e08809a3" />
-<img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/8f40c8b5-3833-4893-a14a-fb88f90d1ffc" />
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/e87b5c6e-9938-441c-961a-51cd7229e2d5" />
+
 코드의 앞이 destination

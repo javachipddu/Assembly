@@ -25,4 +25,5 @@
 <img width="837" height="467" alt="image" src="https://github.com/user-attachments/assets/dcfb84f1-4d05-484e-a983-2423d25c4285" />
 <img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/8d2467e0-c0e1-4df6-b30b-d86a5e3784e9" />
 <img width="325" height="571" alt="image" src="https://github.com/user-attachments/assets/96a7fcfc-65ab-4876-a782-1dcdb144305f" />
-보수를 구하는 법
+
+보수를 구하는 법(cpu에는 뺄셈이 없다. 그래서 보수를 쓴다.)

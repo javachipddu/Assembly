@@ -27,3 +27,19 @@
 <img width="325" height="571" alt="image" src="https://github.com/user-attachments/assets/96a7fcfc-65ab-4876-a782-1dcdb144305f" />
 보수를 구하는 법(cpu에는 뺄셈이 없다. 보수를 쓰면 덧셈으로 뺄셈 구현이 가능하다.)
 
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/4df2c6d3-915c-4563-8997-099488e1aa80" />
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/4752676f-e7aa-4a1f-a4bd-8db0d831d34d" />
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/b128e1b4-8d01-4a29-9a53-2356e3bb0f7a" />
+#### sub와 cmp의 차이점?
+
+<img width="837" height="462" alt="image" src="https://github.com/user-attachments/assets/67174850-3c86-49ed-a85a-d68f7a23d29d" />
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/f466f2fd-426e-499c-8fdd-4e4ddc9af2e5" />
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/5cee2f0d-1210-4e86-808d-0ec39afcb043" />
+<img width="837" height="468" alt="image" src="https://github.com/user-attachments/assets/8f164983-29df-4eea-b1e5-893e087202b0" />
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/21881b38-6b92-45b7-bd67-eb4da96a2d54" />
+<img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/b6acd0e8-c7ea-4088-bafd-4b8a09e72c14" />
+<img width="837" height="464" alt="image" src="https://github.com/user-attachments/assets/bf3f4ecb-9587-4306-ad9f-03e7e7d965ea" />
+<img width="837" height="463" alt="image" src="https://github.com/user-attachments/assets/7da4fe75-86f5-4582-a6c2-92e2878f9e39" />
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/2ecffa67-a125-4e2c-8244-9c6961f0d692" />
+<img width="837" height="465" alt="image" src="https://github.com/user-attachments/assets/881bd16b-356f-4b5f-83e0-137a26bfd238" />
+<img width="837" height="466" alt="image" src="https://github.com/user-attachments/assets/b97a373e-19d2-41f9-a454-11f318807add" />

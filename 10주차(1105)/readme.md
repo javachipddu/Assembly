@@ -21,3 +21,8 @@ int abc(int *a, int *b)
 
 abcc(&x,&y) a=1, b=2
 ```
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/590b9bdf-fc3f-4606-9193-078a712dd905" />
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/fd8a2b59-a8e0-464c-8071-52186661c295" />
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/224108ab-0718-4a38-97bd-3b08f3b8b257" />
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/1df1fb7d-3954-47e8-8e02-23b800b02b37" />
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/0348b0c7-866b-4582-bfa7-6d26b0ae2818" />

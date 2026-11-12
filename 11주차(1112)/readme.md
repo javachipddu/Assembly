@@ -29,3 +29,13 @@ SB, SW, SD : String(Byte, Word, DWord)
 <img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/6657dfdb-bcf8-4ea7-a946-142e7072f57e" />
 
 <img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/f72e8e3b-8d5e-49b8-be07-bb62b7fe424f" />
+
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/0b135cfa-0692-4a75-8f0a-fb7b7a075732" />
+
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/712e5769-acc2-4a99-bcbb-bd3698971811" />
+
+proc 호출에는 스택을 사용한다.
+
+<img width="837" height="509" alt="image" src="https://github.com/user-attachments/assets/2b73d9b4-6c0b-4a6e-8488-dbcd1e624775" />
+
+Sorting 다음 Serching

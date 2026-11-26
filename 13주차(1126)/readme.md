@@ -1,6 +1,6 @@
 # 어셈블리프로그래밍 13주차 수업(1126)
 
-ftpserver 강의자료2 review
+ftpserver 강의자료2 review(용량 문제로 ppt 업로드 실패)
 
 C + MASM 통합 프로그램
 
